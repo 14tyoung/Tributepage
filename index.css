@@ -1,0 +1,33 @@
+h1{
+  text-align: center;
+}
+
+img {
+  max-width: 100%;
+  display: block;
+  height: auto;
+  margin: 0 auto;
+  border-radius: 18px;
+
+}
+
+ #img-caption{
+   text-align: center;
+   padding-top: 15px;
+   padding-bottom: 15px;
+
+ }
+
+ body {
+   background-color: #FEFAE0;
+ }
+
+ img {
+
+      box-shadow: 10px 10px 5px #283618;
+      -moz-box-shadow: 10px 10px 5px #283618;
+      -webkit-box-shadow: 10px 10px 5px #283618;
+      -khtml-box-shadow: 10px 10px 5px #283618;
+    }
+
+    #more {display: none;}
